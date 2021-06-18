@@ -28,8 +28,8 @@ def send_mail_function():
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.ehlo()
         server.starttls()
-        server.login("usermail", 'password)
-        server.sendmail('usermail, recipientEmail, "Warning A Fire Accident has been reported on ABC Company")
+        server.login("ucs19326@rmd.ac.in", '24-Apr-2002')
+        server.sendmail('ucs19326@rmd.ac.in', 'sabarivasan64443@gmail.com', "Warning A Fire Accident has been reported on ABC Company")
         print("sent to {}".format(recipientEmail))
         server.close()
     except Exception as e:
