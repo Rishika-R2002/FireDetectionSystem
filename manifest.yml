@@ -1,5 +1,0 @@
-  applications:
-  - name: FireDetector
-    random-route: true
-    memory: 128M
-
