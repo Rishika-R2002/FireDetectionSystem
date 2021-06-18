@@ -1,0 +1,12 @@
+Fire Detective System in python using opencv:
+
+•	Fire is the most dangerous abnormal occurrence, because failure to control it at an early stage can lead to huge disasters, leading to human, ecological and economic losses.
+•	Inspired by the great potential of CNNs, we can detect fire from images or videos at an early stage.
+•	This project is used to make a fire detection system in python using a computer vision library called openCV.
+•	 This detection system has the following three main features:
+1.	Detect fire in video sequence
+2.	Turn on the alarm with a warning.
+3.	Send email to fire engine services
+•	Here we used HSV color model.Once the fire is detected by the system,it will give a warning message through mail and give a alarm sound.
+•	  Considering the fair fire detection accuracy of the  model, it can be of assistance to disaster management teams in managing fire disasters on time, thus preventing huge losses.
+
