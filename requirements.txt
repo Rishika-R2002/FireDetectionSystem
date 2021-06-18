@@ -1,6 +1,0 @@
-opencv-python 4.5.2.54
-numpy>=1.19.
-wav-win-sound>=1.0.7
-secure-smtplib>=0.1.1
-threaded>=4.1.0
-pyttsx3>=2.90
