@@ -1,0 +1,11 @@
+cv2
+
+numpy 
+
+winsound
+
+smtplib
+
+threading
+
+pyttsx3
